@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 - I am currently studying an SDE pathway
 - I am self taught in C and C++
